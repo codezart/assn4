@@ -178,7 +178,7 @@ def main(dataset, latent_space_dm):
 
         generated_img = generator(fixed_noise).cpu().detach()
         generated_img = make_grid(generated_img, padding =2, normalize=True)
-        save_generator_image(generated_img, f"plots/{dataset}/output/epoch{epoch+1}.png")
+        save_generator_image(generated_img, f"plots/{dataset}/output/{latent_space_dm}_model_epoch{epoch+1}.png")
         images.append(generated_img)
         epoch_loss_g = loss_g / bi
         epoch_loss_d = loss_d / bi

@@ -250,3 +250,351 @@ INFO:root:Discriminator JSD loss:  0.146569162607193
 INFO:root:Epoch 34 of 50
 INFO:root:Generator loss: 1.19083321, Discriminator loss: 1.08970082
 INFO:root:Discriminator JSD loss:  0.14977765083312988
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: 1.16545773, Discriminator loss: 1.10656631
+INFO:root:Discriminator JSD loss:  0.1413450986146927
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: 1.17465317, Discriminator loss: 1.09998202
+INFO:root:Discriminator JSD loss:  0.1446370929479599
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: 1.16833055, Discriminator loss: 1.10248315
+INFO:root:Discriminator JSD loss:  0.1433868110179901
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: 1.17303514, Discriminator loss: 1.10030341
+INFO:root:Discriminator JSD loss:  0.14447642862796783
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: 1.17724526, Discriminator loss: 1.10039794
+INFO:root:Discriminator JSD loss:  0.14442934095859528
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: 1.15722370, Discriminator loss: 1.11046731
+INFO:root:Discriminator JSD loss:  0.13939453661441803
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: 1.16889203, Discriminator loss: 1.10087860
+INFO:root:Discriminator JSD loss:  0.14418922364711761
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: 1.16342521, Discriminator loss: 1.10778069
+INFO:root:Discriminator JSD loss:  0.14073801040649414
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: 1.15744805, Discriminator loss: 1.11026514
+INFO:root:Discriminator JSD loss:  0.13949596881866455
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: 1.15135646, Discriminator loss: 1.11139584
+INFO:root:Discriminator JSD loss:  0.13892996311187744
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: 1.14940691, Discriminator loss: 1.11337900
+INFO:root:Discriminator JSD loss:  0.1379387080669403
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: 1.14421439, Discriminator loss: 1.11865008
+INFO:root:Discriminator JSD loss:  0.1353033483028412
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: 1.15635633, Discriminator loss: 1.11537075
+INFO:root:Discriminator JSD loss:  0.136943057179451
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: 1.14628375, Discriminator loss: 1.11840093
+INFO:root:Discriminator JSD loss:  0.13542798161506653
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: 1.14093173, Discriminator loss: 1.11757648
+INFO:root:Discriminator JSD loss:  0.13584004342556
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: 1.13900578, Discriminator loss: 1.12280488
+INFO:root:Discriminator JSD loss:  0.1332256942987442
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: 2.85912061, Discriminator loss: 0.73973745
+INFO:root:Discriminator JSD loss:  0.32505589723587036
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: 2.61856699, Discriminator loss: 0.72723401
+INFO:root:Discriminator JSD loss:  0.33130767941474915
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: 2.42689347, Discriminator loss: 0.70372623
+INFO:root:Discriminator JSD loss:  0.3430614173412323
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: 2.27980757, Discriminator loss: 0.67564654
+INFO:root:Discriminator JSD loss:  0.3571013808250427
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: 1.93087792, Discriminator loss: 0.75997794
+INFO:root:Discriminator JSD loss:  0.3149353265762329
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: 1.63193524, Discriminator loss: 0.90026391
+INFO:root:Discriminator JSD loss:  0.24479247629642487
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: 1.45608795, Discriminator loss: 0.97907794
+INFO:root:Discriminator JSD loss:  0.20538540184497833
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: 1.49858916, Discriminator loss: 0.99279207
+INFO:root:Discriminator JSD loss:  0.19852866232395172
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: 1.47903359, Discriminator loss: 0.97962642
+INFO:root:Discriminator JSD loss:  0.2051113247871399
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: 1.49519861, Discriminator loss: 0.99872214
+INFO:root:Discriminator JSD loss:  0.19556358456611633
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: 1.46855235, Discriminator loss: 0.98538554
+INFO:root:Discriminator JSD loss:  0.2022319883108139
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: 1.44338858, Discriminator loss: 0.97100937
+INFO:root:Discriminator JSD loss:  0.20941945910453796
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: 1.40304351, Discriminator loss: 1.02788889
+INFO:root:Discriminator JSD loss:  0.18097998201847076
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: 1.44809484, Discriminator loss: 1.03095305
+INFO:root:Discriminator JSD loss:  0.17944809794425964
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: 1.38614070, Discriminator loss: 1.00956178
+INFO:root:Discriminator JSD loss:  0.19014373421669006
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: 1.35824275, Discriminator loss: 1.04298258
+INFO:root:Discriminator JSD loss:  0.17343324422836304
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: 1.34262335, Discriminator loss: 1.04406965
+INFO:root:Discriminator JSD loss:  0.1728895604610443
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: 1.30791652, Discriminator loss: 1.10517359
+INFO:root:Discriminator JSD loss:  0.14233779907226562
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: 1.28298569, Discriminator loss: 1.04969311
+INFO:root:Discriminator JSD loss:  0.17007789015769958
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: 1.26141560, Discriminator loss: 1.07365394
+INFO:root:Discriminator JSD loss:  0.15809762477874756
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: 1.25912774, Discriminator loss: 1.07077897
+INFO:root:Discriminator JSD loss:  0.15953490138053894
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: 1.25216055, Discriminator loss: 1.08365321
+INFO:root:Discriminator JSD loss:  0.15309783816337585
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: 1.25243986, Discriminator loss: 1.06970239
+INFO:root:Discriminator JSD loss:  0.1600734442472458
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: 1.23565435, Discriminator loss: 1.09672773
+INFO:root:Discriminator JSD loss:  0.14656078815460205
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: 1.20672834, Discriminator loss: 1.08839750
+INFO:root:Discriminator JSD loss:  0.15072566270828247
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: 1.23526180, Discriminator loss: 1.11257863
+INFO:root:Discriminator JSD loss:  0.13863521814346313
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: 1.18979514, Discriminator loss: 1.09389532
+INFO:root:Discriminator JSD loss:  0.1479768455028534
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: 1.20605195, Discriminator loss: 1.10952008
+INFO:root:Discriminator JSD loss:  0.1401645392179489
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: 1.19439602, Discriminator loss: 1.10829759
+INFO:root:Discriminator JSD loss:  0.140775665640831
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: 1.17835379, Discriminator loss: 1.10559654
+INFO:root:Discriminator JSD loss:  0.14212630689144135
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: 1.16482496, Discriminator loss: 1.13138044
+INFO:root:Discriminator JSD loss:  0.12923410534858704
+INFO:root:Epoch 32 of 50
+INFO:root:Generator loss: 1.16326451, Discriminator loss: 1.08981454
+INFO:root:Discriminator JSD loss:  0.15001735091209412
+INFO:root:Epoch 33 of 50
+INFO:root:Generator loss: 1.18745029, Discriminator loss: 1.11720645
+INFO:root:Discriminator JSD loss:  0.1363213062286377
+INFO:root:Epoch 34 of 50
+INFO:root:Generator loss: 1.16980660, Discriminator loss: 1.12081134
+INFO:root:Discriminator JSD loss:  0.13451887667179108
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: 1.17000639, Discriminator loss: 1.10889947
+INFO:root:Discriminator JSD loss:  0.14047470688819885
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: 1.15917742, Discriminator loss: 1.10782933
+INFO:root:Discriminator JSD loss:  0.14101000130176544
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: 1.15742600, Discriminator loss: 1.12206507
+INFO:root:Discriminator JSD loss:  0.13389186561107635
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: 1.14689374, Discriminator loss: 1.09847200
+INFO:root:Discriminator JSD loss:  0.14568860828876495
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: 1.16754031, Discriminator loss: 1.10062551
+INFO:root:Discriminator JSD loss:  0.14461219310760498
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: 1.15006053, Discriminator loss: 1.09287238
+INFO:root:Discriminator JSD loss:  0.14848822355270386
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: 1.18576097, Discriminator loss: 1.08931494
+INFO:root:Discriminator JSD loss:  0.15026690065860748
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: 1.18730986, Discriminator loss: 1.09293544
+INFO:root:Discriminator JSD loss:  0.148456871509552
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: 1.17654383, Discriminator loss: 1.07704628
+INFO:root:Discriminator JSD loss:  0.1564013510942459
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: 1.18396604, Discriminator loss: 1.07061052
+INFO:root:Discriminator JSD loss:  0.1596192866563797
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: 1.19804811, Discriminator loss: 1.05884123
+INFO:root:Discriminator JSD loss:  0.16550402343273163
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: 1.20281136, Discriminator loss: 1.04668045
+INFO:root:Discriminator JSD loss:  0.1715843677520752
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: 1.20167089, Discriminator loss: 1.06367540
+INFO:root:Discriminator JSD loss:  0.1630868762731552
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: 1.21896410, Discriminator loss: 1.07451427
+INFO:root:Discriminator JSD loss:  0.15766720473766327
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: 1.21599460, Discriminator loss: 1.02390659
+INFO:root:Discriminator JSD loss:  0.18297120928764343
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: 1.23080361, Discriminator loss: 1.02033854
+INFO:root:Discriminator JSD loss:  0.18475516140460968
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: 2.95863605, Discriminator loss: 0.69902962
+INFO:root:Discriminator JSD loss:  0.3454095721244812
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: 2.83037090, Discriminator loss: 0.65222663
+INFO:root:Discriminator JSD loss:  0.36881139874458313
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: 2.76713753, Discriminator loss: 0.60328448
+INFO:root:Discriminator JSD loss:  0.3932822346687317
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: 2.68954468, Discriminator loss: 0.57948565
+INFO:root:Discriminator JSD loss:  0.4051819443702698
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: 2.41021109, Discriminator loss: 0.64210719
+INFO:root:Discriminator JSD loss:  0.3738710284233093
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: 1.96290481, Discriminator loss: 0.75728714
+INFO:root:Discriminator JSD loss:  0.3162810504436493
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: 1.70845246, Discriminator loss: 0.87148333
+INFO:root:Discriminator JSD loss:  0.25918281078338623
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: 1.74761748, Discriminator loss: 0.87723202
+INFO:root:Discriminator JSD loss:  0.256308376789093
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: 1.68103111, Discriminator loss: 0.92851824
+INFO:root:Discriminator JSD loss:  0.23066526651382446
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: 1.56763566, Discriminator loss: 0.94577670
+INFO:root:Discriminator JSD loss:  0.22203612327575684
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: 1.51244211, Discriminator loss: 0.97327805
+INFO:root:Discriminator JSD loss:  0.2082853764295578
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: 1.52143681, Discriminator loss: 1.01298273
+INFO:root:Discriminator JSD loss:  0.18843309581279755
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: 1.44719982, Discriminator loss: 0.98471081
+INFO:root:Discriminator JSD loss:  0.20256903767585754
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: 1.44512820, Discriminator loss: 1.00118017
+INFO:root:Discriminator JSD loss:  0.19433443248271942
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: 1.42808390, Discriminator loss: 1.00219643
+INFO:root:Discriminator JSD loss:  0.19382654130458832
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: 1.38935709, Discriminator loss: 1.04291403
+INFO:root:Discriminator JSD loss:  0.17346753180027008
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: 1.39253342, Discriminator loss: 0.99860686
+INFO:root:Discriminator JSD loss:  0.19562086462974548
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: 1.36140263, Discriminator loss: 0.99532914
+INFO:root:Discriminator JSD loss:  0.19725996255874634
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: 1.33886814, Discriminator loss: 1.01919830
+INFO:root:Discriminator JSD loss:  0.18532539904117584
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: 1.31021452, Discriminator loss: 1.03851819
+INFO:root:Discriminator JSD loss:  0.1756654679775238
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: 1.31804287, Discriminator loss: 1.04929364
+INFO:root:Discriminator JSD loss:  0.17027775943279266
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: 1.30031538, Discriminator loss: 1.02582014
+INFO:root:Discriminator JSD loss:  0.18201464414596558
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: 1.30366635, Discriminator loss: 1.04467225
+INFO:root:Discriminator JSD loss:  0.17258845269680023
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: 1.27670062, Discriminator loss: 1.03655839
+INFO:root:Discriminator JSD loss:  0.1766451597213745
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: 1.27938640, Discriminator loss: 1.04137862
+INFO:root:Discriminator JSD loss:  0.17423532903194427
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: 1.30355561, Discriminator loss: 1.06125081
+INFO:root:Discriminator JSD loss:  0.16429905593395233
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: 1.26306808, Discriminator loss: 1.03735900
+INFO:root:Discriminator JSD loss:  0.17624492943286896
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: 1.26991427, Discriminator loss: 1.05688202
+INFO:root:Discriminator JSD loss:  0.16648338735103607
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: 1.24707234, Discriminator loss: 1.03381336
+INFO:root:Discriminator JSD loss:  0.178017720580101
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: 1.25674117, Discriminator loss: 1.05565155
+INFO:root:Discriminator JSD loss:  0.16709886491298676
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: 1.22178018, Discriminator loss: 1.09755421
+INFO:root:Discriminator JSD loss:  0.1461474746465683
+INFO:root:Epoch 32 of 50
+INFO:root:Generator loss: 1.25050783, Discriminator loss: 1.05434179
+INFO:root:Discriminator JSD loss:  0.16775335371494293
+INFO:root:Epoch 33 of 50
+INFO:root:Generator loss: 1.22695279, Discriminator loss: 1.06426597
+INFO:root:Discriminator JSD loss:  0.16279160976409912
+INFO:root:Epoch 34 of 50
+INFO:root:Generator loss: 1.22185636, Discriminator loss: 1.08696616
+INFO:root:Discriminator JSD loss:  0.15144138038158417
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: 1.21616697, Discriminator loss: 1.06606603
+INFO:root:Discriminator JSD loss:  0.16189131140708923
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: 1.22336924, Discriminator loss: 1.06532156
+INFO:root:Discriminator JSD loss:  0.16226373612880707
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: 1.20649803, Discriminator loss: 1.09758210
+INFO:root:Discriminator JSD loss:  0.1461334526538849
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: 1.21654773, Discriminator loss: 1.08067596
+INFO:root:Discriminator JSD loss:  0.15458625555038452
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: 1.22122085, Discriminator loss: 1.06064093
+INFO:root:Discriminator JSD loss:  0.16460411250591278
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: 1.23076725, Discriminator loss: 1.05738270
+INFO:root:Discriminator JSD loss:  0.16623324155807495
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: 1.21581674, Discriminator loss: 1.06966734
+INFO:root:Discriminator JSD loss:  0.16009074449539185
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: 1.22488904, Discriminator loss: 1.06508970
+INFO:root:Discriminator JSD loss:  0.16237962245941162
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: 1.23061991, Discriminator loss: 1.05331612
+INFO:root:Discriminator JSD loss:  0.16826623678207397
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: 1.23274684, Discriminator loss: 1.02983451
+INFO:root:Discriminator JSD loss:  0.18000708520412445
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: 1.23287737, Discriminator loss: 1.05872285
+INFO:root:Discriminator JSD loss:  0.16556301712989807
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: 1.23812246, Discriminator loss: 1.05082774
+INFO:root:Discriminator JSD loss:  0.1695103645324707
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: 1.25929034, Discriminator loss: 1.03309608
+INFO:root:Discriminator JSD loss:  0.17837630212306976
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: 1.25843596, Discriminator loss: 1.02428472
+INFO:root:Discriminator JSD loss:  0.18278245627880096
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: 1.25607598, Discriminator loss: 1.04355180
+INFO:root:Discriminator JSD loss:  0.17314817011356354
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: 1.27701616, Discriminator loss: 1.02194166
+INFO:root:Discriminator JSD loss:  0.18395370244979858

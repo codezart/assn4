@@ -1,0 +1,543 @@
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: -0.39709055, Discriminator loss: -2.45284152
+INFO:root:EMD:  1147.9298095703125
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: -0.37415096, Discriminator loss: -2.89319682
+INFO:root:EMD:  1354.0159912109375
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: -0.38555232, Discriminator loss: -2.89275742
+INFO:root:EMD:  1353.8104248046875
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: -0.40116364, Discriminator loss: -2.81872082
+INFO:root:EMD:  1319.1612548828125
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: -0.40399331, Discriminator loss: -2.73167992
+INFO:root:EMD:  1278.4261474609375
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: -0.40709484, Discriminator loss: -2.63581681
+INFO:root:EMD:  1233.562255859375
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: -0.39506236, Discriminator loss: -2.59128547
+INFO:root:EMD:  1212.7215576171875
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: -0.38792109, Discriminator loss: -2.56323552
+INFO:root:EMD:  1199.5941162109375
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: -0.38358778, Discriminator loss: -2.51097202
+INFO:root:EMD:  1175.1348876953125
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: -0.36933005, Discriminator loss: -2.47076535
+INFO:root:EMD:  1156.318115234375
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: -0.36144465, Discriminator loss: -2.43667579
+INFO:root:EMD:  1140.3642578125
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: -0.35279432, Discriminator loss: -2.40900755
+INFO:root:EMD:  1127.41552734375
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: -0.34410062, Discriminator loss: -2.36185336
+INFO:root:EMD:  1105.3472900390625
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: -0.34044445, Discriminator loss: -2.33167243
+INFO:root:EMD:  1091.22265625
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: -0.33307377, Discriminator loss: -2.28829241
+INFO:root:EMD:  1070.9207763671875
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: -0.32633221, Discriminator loss: -2.21925831
+INFO:root:EMD:  1038.61279296875
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: -0.32496911, Discriminator loss: -2.14775610
+INFO:root:EMD:  1005.1497802734375
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: -0.31490728, Discriminator loss: -2.08314872
+INFO:root:EMD:  974.91357421875
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: -0.31297654, Discriminator loss: -2.00552201
+INFO:root:EMD:  938.5842895507812
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: -0.30909845, Discriminator loss: -1.95471144
+INFO:root:EMD:  914.804931640625
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: -0.31123185, Discriminator loss: -1.84214020
+INFO:root:EMD:  862.12158203125
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: -0.30839187, Discriminator loss: -1.78574181
+INFO:root:EMD:  835.7271118164062
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: -0.31347570, Discriminator loss: -1.71509266
+INFO:root:EMD:  802.663330078125
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: -0.30646953, Discriminator loss: -1.63891077
+INFO:root:EMD:  767.0101928710938
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: -0.32408518, Discriminator loss: -1.57334256
+INFO:root:EMD:  736.3242797851562
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: -0.32224295, Discriminator loss: -1.52044725
+INFO:root:EMD:  711.5692749023438
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: -0.32545242, Discriminator loss: -1.48540509
+INFO:root:EMD:  695.1695556640625
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: -0.32263032, Discriminator loss: -1.42615056
+INFO:root:EMD:  667.4384155273438
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: -0.33276233, Discriminator loss: -1.35785306
+INFO:root:EMD:  635.4752197265625
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: -0.34481955, Discriminator loss: -1.33804965
+INFO:root:EMD:  626.2072143554688
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: -0.33901152, Discriminator loss: -1.28729475
+INFO:root:EMD:  602.4539184570312
+INFO:root:Epoch 32 of 50
+INFO:root:Generator loss: -0.34787592, Discriminator loss: -1.25523174
+INFO:root:EMD:  587.4484252929688
+INFO:root:Epoch 33 of 50
+INFO:root:Generator loss: -0.34512317, Discriminator loss: -1.22962785
+INFO:root:EMD:  575.4658203125
+INFO:root:Epoch 34 of 50
+INFO:root:Generator loss: -0.35399798, Discriminator loss: -1.17681980
+INFO:root:EMD:  550.7516479492188
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: -0.35883698, Discriminator loss: -1.13519907
+INFO:root:EMD:  531.2731323242188
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: -0.36631942, Discriminator loss: -1.10996830
+INFO:root:EMD:  519.4651489257812
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: -0.36858225, Discriminator loss: -1.08840287
+INFO:root:EMD:  509.3725280761719
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: -0.36288840, Discriminator loss: -1.05668938
+INFO:root:EMD:  494.5306091308594
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: -0.37205991, Discriminator loss: -1.03048885
+INFO:root:EMD:  482.2687683105469
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: -0.37379304, Discriminator loss: -1.00231838
+INFO:root:EMD:  469.0849914550781
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: -0.37853393, Discriminator loss: -0.98390275
+INFO:root:EMD:  460.4664611816406
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: -0.38014299, Discriminator loss: -0.97208756
+INFO:root:EMD:  454.93695068359375
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: -0.37666324, Discriminator loss: -0.95759076
+INFO:root:EMD:  448.1524658203125
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: -0.38235912, Discriminator loss: -0.92253745
+INFO:root:EMD:  431.74749755859375
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: -0.38466212, Discriminator loss: -0.90219009
+INFO:root:EMD:  422.2249450683594
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: -0.38597292, Discriminator loss: -0.88926029
+INFO:root:EMD:  416.1737976074219
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: -0.38953021, Discriminator loss: -0.87435579
+INFO:root:EMD:  409.198486328125
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: -0.39446622, Discriminator loss: -0.85251302
+INFO:root:EMD:  398.97607421875
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: -0.39389023, Discriminator loss: -0.82394928
+INFO:root:EMD:  385.6082458496094
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: -0.39681798, Discriminator loss: -0.81187505
+INFO:root:EMD:  379.9574890136719
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: -0.39263645, Discriminator loss: -2.44319129
+INFO:root:EMD:  1143.4134521484375
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: -0.37710825, Discriminator loss: -2.92216086
+INFO:root:EMD:  1367.5711669921875
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: -0.39379781, Discriminator loss: -2.88451672
+INFO:root:EMD:  1349.9537353515625
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: -0.41134810, Discriminator loss: -2.80321789
+INFO:root:EMD:  1311.9058837890625
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: -0.41529533, Discriminator loss: -2.72721982
+INFO:root:EMD:  1276.3388671875
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: -0.41252333, Discriminator loss: -2.65297413
+INFO:root:EMD:  1241.591796875
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: -0.40799356, Discriminator loss: -2.62460828
+INFO:root:EMD:  1228.316650390625
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: -0.40684718, Discriminator loss: -2.57484365
+INFO:root:EMD:  1205.0267333984375
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: -0.40329021, Discriminator loss: -2.51269102
+INFO:root:EMD:  1175.9393310546875
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: -0.39657322, Discriminator loss: -2.45157456
+INFO:root:EMD:  1147.3367919921875
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: -0.38496298, Discriminator loss: -2.42212391
+INFO:root:EMD:  1133.553955078125
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: -0.37521926, Discriminator loss: -2.39418697
+INFO:root:EMD:  1120.4794921875
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: -0.36316481, Discriminator loss: -2.33853650
+INFO:root:EMD:  1094.43505859375
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: -0.35211438, Discriminator loss: -2.31011224
+INFO:root:EMD:  1081.1324462890625
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: -0.34946123, Discriminator loss: -2.25998235
+INFO:root:EMD:  1057.671630859375
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: -0.34768838, Discriminator loss: -2.20146656
+INFO:root:EMD:  1030.2862548828125
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: -0.34282759, Discriminator loss: -2.13324165
+INFO:root:EMD:  998.3570556640625
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: -0.33847985, Discriminator loss: -2.07408285
+INFO:root:EMD:  970.6707763671875
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: -0.33405387, Discriminator loss: -2.00560665
+INFO:root:EMD:  938.6238403320312
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: -0.33074772, Discriminator loss: -1.94317222
+INFO:root:EMD:  909.404541015625
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: -0.32956007, Discriminator loss: -1.88265741
+INFO:root:EMD:  881.0836181640625
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: -0.32494393, Discriminator loss: -1.83563948
+INFO:root:EMD:  859.0792236328125
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: -0.31902722, Discriminator loss: -1.78929830
+INFO:root:EMD:  837.3915405273438
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: -0.31414226, Discriminator loss: -1.73077440
+INFO:root:EMD:  810.0023803710938
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: -0.31670442, Discriminator loss: -1.67057967
+INFO:root:EMD:  781.8312377929688
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: -0.31805426, Discriminator loss: -1.60090709
+INFO:root:EMD:  749.2244873046875
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: -0.32305479, Discriminator loss: -1.54252994
+INFO:root:EMD:  721.9039916992188
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: -0.32539272, Discriminator loss: -1.48667407
+INFO:root:EMD:  695.763427734375
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: -0.33073637, Discriminator loss: -1.42801201
+INFO:root:EMD:  668.3095703125
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: -0.33046594, Discriminator loss: -1.40888083
+INFO:root:EMD:  659.356201171875
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: -0.33776420, Discriminator loss: -1.33549690
+INFO:root:EMD:  625.0125122070312
+INFO:root:Epoch 32 of 50
+INFO:root:Generator loss: -0.34324107, Discriminator loss: -1.30748498
+INFO:root:EMD:  611.9029541015625
+INFO:root:Epoch 33 of 50
+INFO:root:Generator loss: -0.34608743, Discriminator loss: -1.23177707
+INFO:root:EMD:  576.4716186523438
+INFO:root:Epoch 34 of 50
+INFO:root:Generator loss: -0.35569113, Discriminator loss: -1.20979881
+INFO:root:EMD:  566.185791015625
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: -0.35067344, Discriminator loss: -1.19779122
+INFO:root:EMD:  560.5662841796875
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: -0.35434565, Discriminator loss: -1.16594338
+INFO:root:EMD:  545.6614990234375
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: -0.36743340, Discriminator loss: -1.10219002
+INFO:root:EMD:  515.8248901367188
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: -0.36251283, Discriminator loss: -1.10451961
+INFO:root:EMD:  516.9151611328125
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: -0.36928752, Discriminator loss: -1.06395292
+INFO:root:EMD:  497.929931640625
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: -0.36691910, Discriminator loss: -1.04401147
+INFO:root:EMD:  488.59735107421875
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: -0.37067911, Discriminator loss: -1.00498819
+INFO:root:EMD:  470.33447265625
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: -0.37666398, Discriminator loss: -0.98387700
+INFO:root:EMD:  460.45440673828125
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: -0.38018897, Discriminator loss: -0.96251816
+INFO:root:EMD:  450.4584655761719
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: -0.38459578, Discriminator loss: -0.94676155
+INFO:root:EMD:  443.0843811035156
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: -0.38418412, Discriminator loss: -0.92830086
+INFO:root:EMD:  434.4447937011719
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: -0.38430068, Discriminator loss: -0.91062790
+INFO:root:EMD:  426.173828125
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: -0.38563490, Discriminator loss: -0.89059985
+INFO:root:EMD:  416.80072021484375
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: -0.38976893, Discriminator loss: -0.88152713
+INFO:root:EMD:  412.5546875
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: -0.38736403, Discriminator loss: -0.87472308
+INFO:root:EMD:  409.3703918457031
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: -0.38728508, Discriminator loss: -0.84295404
+INFO:root:EMD:  394.5024719238281
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: -0.49180651, Discriminator loss: -0.09737340
+INFO:root:EMD:  37.975624084472656
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: -0.48252329, Discriminator loss: -0.18083119
+INFO:root:EMD:  70.52416229248047
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: -0.48684153, Discriminator loss: -0.12140074
+INFO:root:EMD:  47.34628677368164
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: -0.48931870, Discriminator loss: -0.10608595
+INFO:root:EMD:  41.37351989746094
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: -0.49056867, Discriminator loss: -0.09518901
+INFO:root:EMD:  37.12371063232422
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: -0.49068999, Discriminator loss: -0.09421089
+INFO:root:EMD:  36.742244720458984
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: -0.49145493, Discriminator loss: -0.08982677
+INFO:root:EMD:  35.032440185546875
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: -0.49183539, Discriminator loss: -0.08702096
+INFO:root:EMD:  33.938175201416016
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: -0.49203384, Discriminator loss: -0.08296373
+INFO:root:EMD:  32.35585403442383
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: -0.49267966, Discriminator loss: -0.07632080
+INFO:root:EMD:  29.765113830566406
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: -0.49262571, Discriminator loss: -0.07616701
+INFO:root:EMD:  29.70513343811035
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: -0.49318153, Discriminator loss: -0.07018152
+INFO:root:EMD:  27.370792388916016
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: -0.49352637, Discriminator loss: -0.06419244
+INFO:root:EMD:  25.035051345825195
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: -0.49393681, Discriminator loss: -0.05951690
+INFO:root:EMD:  23.211589813232422
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: -0.49458048, Discriminator loss: -0.05578645
+INFO:root:EMD:  21.7567138671875
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: -0.49487749, Discriminator loss: -0.05455787
+INFO:root:EMD:  21.277570724487305
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: -0.49492523, Discriminator loss: -0.05240560
+INFO:root:EMD:  20.43818473815918
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: -0.49521160, Discriminator loss: -0.04955862
+INFO:root:EMD:  19.32785987854004
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: -0.49574390, Discriminator loss: -0.04742270
+INFO:root:EMD:  18.49485206604004
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: -0.49604502, Discriminator loss: -0.04604829
+INFO:root:EMD:  17.958833694458008
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: -0.49579629, Discriminator loss: -0.04284533
+INFO:root:EMD:  16.709678649902344
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: -0.49627942, Discriminator loss: -0.04390830
+INFO:root:EMD:  17.124235153198242
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: -0.49580589, Discriminator loss: -0.04769779
+INFO:root:EMD:  18.60213851928711
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: -0.49505708, Discriminator loss: -0.04947964
+INFO:root:EMD:  19.297060012817383
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: -0.49496508, Discriminator loss: -0.04929840
+INFO:root:EMD:  19.226375579833984
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: -0.49550694, Discriminator loss: -0.04758647
+INFO:root:EMD:  18.55872344970703
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: -0.49579811, Discriminator loss: -0.04506743
+INFO:root:EMD:  17.576297760009766
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: -0.49619964, Discriminator loss: -0.04278751
+INFO:root:EMD:  16.6871280670166
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: -0.49642840, Discriminator loss: -0.04154624
+INFO:root:EMD:  16.203035354614258
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: -0.49654955, Discriminator loss: -0.04046949
+INFO:root:EMD:  15.783102035522461
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: -0.49671996, Discriminator loss: -0.03924758
+INFO:root:EMD:  15.306556701660156
+INFO:root:Epoch 32 of 50
+INFO:root:Generator loss: -0.49725074, Discriminator loss: -0.03835587
+INFO:root:EMD:  14.958788871765137
+INFO:root:Epoch 33 of 50
+INFO:root:Generator loss: -0.49737781, Discriminator loss: -0.03669635
+INFO:root:EMD:  14.311576843261719
+INFO:root:Epoch 34 of 50
+INFO:root:Generator loss: -0.49744713, Discriminator loss: -0.03551128
+INFO:root:EMD:  13.849398612976074
+INFO:root:Epoch 35 of 50
+INFO:root:Generator loss: -0.49740198, Discriminator loss: -0.03527326
+INFO:root:EMD:  13.756569862365723
+INFO:root:Epoch 36 of 50
+INFO:root:Generator loss: -0.49727273, Discriminator loss: -0.03498385
+INFO:root:EMD:  13.64370346069336
+INFO:root:Epoch 37 of 50
+INFO:root:Generator loss: -0.49708074, Discriminator loss: -0.03526130
+INFO:root:EMD:  13.751906394958496
+INFO:root:Epoch 38 of 50
+INFO:root:Generator loss: -0.49715573, Discriminator loss: -0.03373507
+INFO:root:EMD:  13.15667724609375
+INFO:root:Epoch 39 of 50
+INFO:root:Generator loss: -0.49734390, Discriminator loss: -0.03294641
+INFO:root:EMD:  12.849100112915039
+INFO:root:Epoch 40 of 50
+INFO:root:Generator loss: -0.49725237, Discriminator loss: -0.03218351
+INFO:root:EMD:  12.551568984985352
+INFO:root:Epoch 41 of 50
+INFO:root:Generator loss: -0.49611101, Discriminator loss: -0.03861582
+INFO:root:EMD:  15.060169219970703
+INFO:root:Epoch 42 of 50
+INFO:root:Generator loss: -0.49557748, Discriminator loss: -0.04092315
+INFO:root:EMD:  15.960026741027832
+INFO:root:Epoch 43 of 50
+INFO:root:Generator loss: -0.49644157, Discriminator loss: -0.03495913
+INFO:root:EMD:  13.63405990600586
+INFO:root:Epoch 44 of 50
+INFO:root:Generator loss: -0.49714768, Discriminator loss: -0.03082205
+INFO:root:EMD:  12.020600318908691
+INFO:root:Epoch 45 of 50
+INFO:root:Generator loss: -0.49728903, Discriminator loss: -0.02809460
+INFO:root:EMD:  10.956893920898438
+INFO:root:Epoch 46 of 50
+INFO:root:Generator loss: -0.49755594, Discriminator loss: -0.02573165
+INFO:root:EMD:  10.035345077514648
+INFO:root:Epoch 47 of 50
+INFO:root:Generator loss: -0.49732980, Discriminator loss: -0.02600094
+INFO:root:EMD:  10.140366554260254
+INFO:root:Epoch 48 of 50
+INFO:root:Generator loss: -0.49736309, Discriminator loss: -0.02692039
+INFO:root:EMD:  10.49895191192627
+INFO:root:Epoch 49 of 50
+INFO:root:Generator loss: -0.49744657, Discriminator loss: -0.02750945
+INFO:root:EMD:  10.728687286376953
+INFO:root:Epoch 50 of 50
+INFO:root:Generator loss: -0.49748266, Discriminator loss: -0.02870693
+INFO:root:EMD:  11.195701599121094
+INFO:root:Epoch 1 of 50
+INFO:root:Generator loss: -0.49188629, Discriminator loss: -0.09493145
+INFO:root:EMD:  37.02326202392578
+INFO:root:Epoch 2 of 50
+INFO:root:Generator loss: -0.48148671, Discriminator loss: -0.19111119
+INFO:root:EMD:  74.53336334228516
+INFO:root:Epoch 3 of 50
+INFO:root:Generator loss: -0.48583880, Discriminator loss: -0.14765689
+INFO:root:EMD:  57.586185455322266
+INFO:root:Epoch 4 of 50
+INFO:root:Generator loss: -0.48865366, Discriminator loss: -0.11820563
+INFO:root:EMD:  46.10019302368164
+INFO:root:Epoch 5 of 50
+INFO:root:Generator loss: -0.49038193, Discriminator loss: -0.10570207
+INFO:root:EMD:  41.22380828857422
+INFO:root:Epoch 6 of 50
+INFO:root:Generator loss: -0.49077186, Discriminator loss: -0.09983981
+INFO:root:EMD:  38.937522888183594
+INFO:root:Epoch 7 of 50
+INFO:root:Generator loss: -0.49073333, Discriminator loss: -0.09421672
+INFO:root:EMD:  36.7445182800293
+INFO:root:Epoch 8 of 50
+INFO:root:Generator loss: -0.49026743, Discriminator loss: -0.08846826
+INFO:root:EMD:  34.502620697021484
+INFO:root:Epoch 9 of 50
+INFO:root:Generator loss: -0.49153692, Discriminator loss: -0.08043255
+INFO:root:EMD:  31.36869239807129
+INFO:root:Epoch 10 of 50
+INFO:root:Generator loss: -0.49173057, Discriminator loss: -0.08056492
+INFO:root:EMD:  31.420316696166992
+INFO:root:Epoch 11 of 50
+INFO:root:Generator loss: -0.49141672, Discriminator loss: -0.07825318
+INFO:root:EMD:  30.518739700317383
+INFO:root:Epoch 12 of 50
+INFO:root:Generator loss: -0.49183601, Discriminator loss: -0.07253838
+INFO:root:EMD:  28.289968490600586
+INFO:root:Epoch 13 of 50
+INFO:root:Generator loss: -0.49254036, Discriminator loss: -0.06657508
+INFO:root:EMD:  25.964279174804688
+INFO:root:Epoch 14 of 50
+INFO:root:Generator loss: -0.49313170, Discriminator loss: -0.06215888
+INFO:root:EMD:  24.241962432861328
+INFO:root:Epoch 15 of 50
+INFO:root:Generator loss: -0.49343577, Discriminator loss: -0.05893976
+INFO:root:EMD:  22.98650550842285
+INFO:root:Epoch 16 of 50
+INFO:root:Generator loss: -0.49363995, Discriminator loss: -0.05677278
+INFO:root:EMD:  22.141382217407227
+INFO:root:Epoch 17 of 50
+INFO:root:Generator loss: -0.49366483, Discriminator loss: -0.05500495
+INFO:root:EMD:  21.45193099975586
+INFO:root:Epoch 18 of 50
+INFO:root:Generator loss: -0.49388471, Discriminator loss: -0.05334015
+INFO:root:EMD:  20.802658081054688
+INFO:root:Epoch 19 of 50
+INFO:root:Generator loss: -0.49353644, Discriminator loss: -0.05206930
+INFO:root:EMD:  20.307024002075195
+INFO:root:Epoch 20 of 50
+INFO:root:Generator loss: -0.49345958, Discriminator loss: -0.05128308
+INFO:root:EMD:  20.000402450561523
+INFO:root:Epoch 21 of 50
+INFO:root:Generator loss: -0.49333802, Discriminator loss: -0.05033479
+INFO:root:EMD:  19.630565643310547
+INFO:root:Epoch 22 of 50
+INFO:root:Generator loss: -0.49309748, Discriminator loss: -0.05015571
+INFO:root:EMD:  19.560728073120117
+INFO:root:Epoch 23 of 50
+INFO:root:Generator loss: -0.49301901, Discriminator loss: -0.04906068
+INFO:root:EMD:  19.133665084838867
+INFO:root:Epoch 24 of 50
+INFO:root:Generator loss: -0.49305791, Discriminator loss: -0.04790486
+INFO:root:EMD:  18.68289566040039
+INFO:root:Epoch 25 of 50
+INFO:root:Generator loss: -0.49329379, Discriminator loss: -0.04675926
+INFO:root:EMD:  18.23611068725586
+INFO:root:Epoch 26 of 50
+INFO:root:Generator loss: -0.49356961, Discriminator loss: -0.04495311
+INFO:root:EMD:  17.531713485717773
+INFO:root:Epoch 27 of 50
+INFO:root:Generator loss: -0.49401253, Discriminator loss: -0.04322574
+INFO:root:EMD:  16.85803985595703
+INFO:root:Epoch 28 of 50
+INFO:root:Generator loss: -0.49428320, Discriminator loss: -0.04170758
+INFO:root:EMD:  16.26595687866211
+INFO:root:Epoch 29 of 50
+INFO:root:Generator loss: -0.49474353, Discriminator loss: -0.04046053
+INFO:root:EMD:  15.779605865478516
+INFO:root:Epoch 30 of 50
+INFO:root:Generator loss: -0.49478507, Discriminator loss: -0.03940184
+INFO:root:EMD:  15.366716384887695
+INFO:root:Epoch 31 of 50
+INFO:root:Generator loss: -0.49505898, Discriminator loss: -0.03822391
+INFO:root:EMD:  14.907322883605957
